@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <grade IDHomework="1" IDStudent="1">
+        <GradeValue>10.0</GradeValue>
+        <DeliveryWeek>7</DeliveryWeek>
+        <Feedback>done</Feedback>
+    </grade>
+    <grade IDHomework="2" IDStudent="2">
+        <GradeValue>5.66</GradeValue>
+        <DeliveryWeek>8</DeliveryWeek>
+        <Feedback>Not bad</Feedback>
+    </grade>
+    <grade IDHomework="2" IDStudent="1">
+        <GradeValue>5.66</GradeValue>
+        <DeliveryWeek>8</DeliveryWeek>
+        <Feedback>Not bad</Feedback>
+    </grade>
+</Entities>
